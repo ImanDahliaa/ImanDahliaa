@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-🎓 I graduated from Politeknik Seberang Perai with a Diploma in Electrical and Electronic Engineering and am currently pursuing a Bachelor of Electronic Engineering Technology (Electronic Systems) (Hons.) at Universiti Malaysia Perlis (UniMAP).
+🎓 Currently pursuing a Bachelor of Electronic Engineering Technology (Electronic Systems) (Hons.) at Universiti Malaysia Perlis (UniMAP).
 
-🔧 I have hands-on experience in manufacturing, assembly, and troubleshooting, with strong interest in practical engineering applications.
+🔧 Have hands-on experience in manufacturing, assembly, and troubleshooting, with strong interest in practical engineering applications.
 
 👨‍💻 About Me
 
