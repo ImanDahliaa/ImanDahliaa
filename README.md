@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🎓 Currently pursuing a Bachelor of Electronic Engineering Technology (Electronic Systems) (Hons.) at Universiti Malaysia Perlis (UniMAP).
+🎓 Im Currently pursuing a Bachelor of Electronic Engineering Technology (Electronic Systems) (Hons.) at Universiti Malaysia Perlis (UniMAP).
 
 🔧 Have hands-on experience in manufacturing, assembly, and troubleshooting, with strong interest in practical engineering applications.
 
