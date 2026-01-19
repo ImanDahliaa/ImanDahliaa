@@ -44,6 +44,6 @@
 ---
 
 ## 📫 Let’s Connect
-Feel free to check out my repositories or reach out if you’d like to collaborate or share knowledge!
-
-
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohamadimann/)
+- 📂 Check out my repositories here on GitHub
+- 🤝 Reach out if you’d like to collaborate or share knowledge!
