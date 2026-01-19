@@ -1,41 +1,49 @@
-## Hi there 👋
+# Hi there 👋
 
-🎓 Im Currently pursuing a Bachelor of Electronic Engineering Technology (Electronic Systems) (Hons.) at Universiti Malaysia Perlis (UniMAP).
+🎓 Currently pursuing a **Bachelor of Electronic Engineering Technology (Electronic Systems) (Hons.)** at **Universiti Malaysia Perlis (UniMAP)**  
+🎓 Previously completed a **Diploma in Electrical and Electronics Engineering** at **Politeknik Seberang Perai**  
+📅 Date of Birth: **10 January 2001**
 
-🔧 Have hands-on experience in manufacturing, assembly, and troubleshooting, with strong interest in practical engineering applications.
+---
 
-👨‍💻 About Me
+## 👨‍💻 About Me
+- 🎯 Passionate about electronics, electrical systems, and engineering problem-solving  
+- 🏭 Former Manufacturing Technician with real industry exposure  
+- 📘 Skilled in reading schematics, BOMs, and technical documentation  
+- 🔥 Hardworking, self-motivated, and eager to continuously improve my skills  
+- 🤝 Open to collaboration on electronics, microcontroller, and engineering-related projects  
 
-🎯 Passionate about electronics, electrical systems, and engineering problem-solving
+---
 
-🏭 Former Manufacturing Technician with real industry exposure
+## 🛠️ Technical Skills
 
-📘 Familiar with reading schematics, BOMs, and technical documentation
+**Software & Tools**    
+- Proteus 8  
+- AutoCAD  
+- TinkerCAD
+- LTSpice
+- MatLAB
+- Apache NetBeans
+- Quartus II
+- NI Multisim
+- 8085 Simulator
 
-🔥 Hardworking, self-motivated, and eager to continuously improve my skills
+**Engineering Skills**  
+- Soldering  
+- Circuit assembly  
+- Basic troubleshooting  
+- Technical documentation  
 
-🤝 Open to collaboration on electronics, microcontroller, and engineering-related projects
+---
 
-🛠️ Technical Skills
+## 📌 Current Focus
+- 🌱 Learning more about electronics systems, microprocessors, and circuit design  
+- 🔍 Exploring opportunities to apply engineering knowledge through projects  
+- 🚀 Building a strong foundation for my future engineering career  
 
-Software & Tools:
-Microsoft Office, Proteus 8, AutoCAD, Adobe Photoshop
+---
 
-Engineering Skills:
-Soldering, circuit assembly, basic troubleshooting, technical documentation
-
-Languages:
-Bahasa Malaysia (Native), English (Intermediate)
-
-📌 Current Focus
-
-🌱 Learning more about electronics systems, microprocessors, and circuit design
-
-🔍 Exploring opportunities to apply engineering knowledge through projects
-
-🚀 Building a strong foundation for my future engineering career
-
-📫 Let’s Connect
-
+## 📫 Let’s Connect
 Feel free to check out my repositories or reach out if you’d like to collaborate or share knowledge!
+
 
