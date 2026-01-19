@@ -1,6 +1,7 @@
 # Hi there 👋
 
 🎓 Currently pursuing a **Bachelor of Electronic Engineering Technology (Electronic Systems) (Hons.)** at **Universiti Malaysia Perlis (UniMAP)**  
+
 🎓 Previously completed a **Diploma in Electrical and Electronics Engineering** at **Politeknik Seberang Perai**  
 📅 Date of Birth: **10 January 2001**
 
