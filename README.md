@@ -2,18 +2,12 @@
 
 🎓 Currently pursuing a **Bachelor of Electronic Engineering Technology (Electronic Systems) (Hons.)** at **Universiti Malaysia Perlis (UniMAP) (2024-2028)**  
 
-🎓 Previously completed a **Diploma in Electrical and Electronics Engineering** at **Politeknik Seberang Perai (2019-2022)**  
-
-📅 Date of Birth: **10 January 2001**
-
 ---
 
 ## 👨‍💻 About Me
 - 🎯 Passionate about electronics, electrical systems, and engineering problem-solving  
 - 🏭 Former Manufacturing Technician with real industry exposure  
 - 📘 Skilled in reading schematics, BOMs, and technical documentation  
-- 🔥 Hardworking, self-motivated, and eager to continuously improve my skills  
-- 🤝 Open to collaboration on electronics, microcontroller, and engineering-related projects  
 
 ---
 
@@ -29,13 +23,7 @@
 - Quartus II
 - NI Multisim
 - 8085 Simulator
-
-**Engineering Skills**  
-- Soldering  
-- Circuit assembly  
-- Basic troubleshooting  
-- Technical documentation  
-
+  
 ---
 
 ## 📌 Current Focus
@@ -47,5 +35,3 @@
 
 ## 📫 Let’s Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohamadimann/)
-- 📂 Check out my repositories here on GitHub
-- 🤝 Reach out if you’d like to collaborate or share knowledge!
