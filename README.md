@@ -1,7 +1,4 @@
-# Hi there 👋
-
-🎓 Currently pursuing a **Bachelor of Electronic Engineering Technology (Electronic Systems) (Hons.)** at **Universiti Malaysia Perlis (UniMAP) (2024-2028)**  
-
+# Hi
 ---
 
 ## 👨‍💻 About Me
